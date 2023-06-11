@@ -28,3 +28,8 @@ body{
     background-image: url(img/bgrg.jpeg);
     background-repeat: repeat;
 }
+#ender{
+    background-color: rgb(255, 157, 173);
+    width: auto;
+    height: 250px;
+}
