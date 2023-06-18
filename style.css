@@ -1,0 +1,35 @@
+
+#icon{
+    background:rgb(12, 118, 255);
+    color: aliceblue;
+    text-align: center;
+    font-family:monospace;
+    font-size: 50px;
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+}
+.box {
+    display:flex;
+    background-color: white;
+    flex-direction: row;
+    justify-content:space-evenly;
+    width: 400px;
+    height: 100px;
+    border: 1px solid #c3c3c3;
+}
+p{
+    background-color: #fff;
+    color: rgb(0, 16, 236);
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(img/bgrg.jpeg);
+    background-repeat: repeat;
+}
+#ender{
+    background-color: rgb(255, 157, 173);
+    width: auto;
+    height: 250px;
+}
